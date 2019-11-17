@@ -119,22 +119,15 @@ width: 80%;
     padding: 30px 0px;
     margin-top: 24px;
 }
-.slick-next
-{
-    top: 105%;
-    right: 45%;  
+.icon{
+    text-align: center;
+    font-size: 20px;
+
 }
-.slick-prev 
-{
-top: 105%;
-left: 45%;
-}
-@media(max-width:480px){
-    .slick-next,.slick-prev 
-{
-    top: 103%;
-}
-}
+.icon .prev,.icon .prev-b,.icon .next,.icon .next-b {
+    padding: 5px;
+} 
+
 .slick-prev::before, .slick-next::before {
 
     font-family: slick;
