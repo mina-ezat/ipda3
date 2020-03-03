@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/57676885/75736647-7d347c00-5d06-11ea-8220-37ab513515b5.png" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/57676885/75736647-7d347c00-5d06-11ea-8220-37ab513515b5.png" ></p>
 
 
 ## ipda3
